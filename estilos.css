@@ -98,7 +98,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("Imágenes/2.png");
+    ,url("Imágenes/2.PNG");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -164,7 +164,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/front-end.jpg");
+    ,url("media/front-end.JPG");
 
 }
 
@@ -174,7 +174,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/full-stack.jpg");
+    ,url("media/full-stack.JPG");
 }
 
 .carta:nth-child(3){
@@ -183,7 +183,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/python.jpg");
+    ,url("media/python.JPG");
 
 }
 
@@ -279,7 +279,7 @@ footer .container{
     }
 
     #quiensoy .img-container{
-        background-image: url("Imágenes/3meseros.png");
+        background-image: url("Imágenes/3meseros.PNG");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -313,7 +313,7 @@ footer .container{
     }
 
     #somos-proya .img-container{
-        background-image: url("Imágenes/jardín.png");
+        background-image: url("Imágenes/jardín.PNG");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -343,7 +343,7 @@ footer .container{
     }
 
     #vision .img-container{
-        background-image: url("Imágenes/1.png");
+        background-image: url("Imágenes/1.PNG");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -433,7 +433,7 @@ footer .container{
     }
 
     #opinion .img-container{
-        background-image: url("Imágenes/certificados.png");
+        background-image: url("Imágenes/certificados.PNG");
         background-size: cover;
         background-position: center center;
         height: 650px;
@@ -472,7 +472,7 @@ footer .container{
     }
 
     #prod .img-container{
-        background-image: url("Imágenes/nuestrosproductos.png");
+        background-image: url("Imágenes/nuestrosproductos.PNG");
         background-size: cover;
         background-position: center center;
         height: 600px;
@@ -484,7 +484,7 @@ footer .container{
     }
 
     #caracteristicas{
-        background-image: url("media/background-2.jpeg");
+        background-image: url("media/background-2.JPEG");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
